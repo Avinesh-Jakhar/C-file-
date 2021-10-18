@@ -31,4 +31,5 @@ int main()
     //hello i am prateek
     int i=100;
     printf("%d",i);
+    //comment
 }
