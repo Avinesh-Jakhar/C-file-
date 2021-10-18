@@ -28,4 +28,8 @@ int main()
     }
     t = t - clock();
     printf("\n %d time taken", t / CLOCKS_PER_SEC);
+    //hello i am prateek
+    int i=100;
+    printf("%d",i);
+    //comment
 }
